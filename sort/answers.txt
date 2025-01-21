@@ -1,0 +1,12 @@
+sort1 uses: Bubble
+
+How do you know?: It needs less time to run a sorted secuence than a unsorted one.
+
+sort2 uses: Merge
+
+How do you know?: It needs the same time to run no matter if the secuence is sorted or unsorted,
+                but less time for unsorted ones compared with the other algorithms.
+
+sort3 uses: Selection
+
+How do you know?: It needs the same tame to run both a sorted and unsorted secuence.
