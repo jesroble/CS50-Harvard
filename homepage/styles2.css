@@ -1,0 +1,46 @@
+body
+{
+    background-color: #f8f9fa;
+    font-family: 'Arial'
+}
+
+h2
+{
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 600;
+    color: #343a40;
+}
+
+.faq-answer
+{
+    display: none;
+}
+
+.faq-item
+{
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    width: 60%;
+    border-radius: 8px;
+    padding: 12px;
+}
+
+.faq-question
+{
+    color: black;
+    border: none;
+    padding: 12px 20px;
+    width: 98%;
+    text-align: left;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.faq-answer
+{
+    color: black;
+    border: none;
+    margin-top: 10px;
+    text-align: left;
+}
