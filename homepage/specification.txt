@@ -1,0 +1,7 @@
+10 html tags I´ve used:
+----> h1, p, header, nav, button, span, div, ul, li and image.
+
+5 CSS properties I´ve used:
+----> margin, background, color, text-align, width.
+
+I have alternated Bootstrap and JavaScript to learn about both despite i think Bootstrap is more useful.
